@@ -7,7 +7,7 @@
 
 - 🌱 I’m looking to learn **Python**
 
-- 💬 Ask me about **My favorite Mountain Bike trails**
+- 💬 Ask me about :bicyclist: **My favorite Mountain Bike trails**
 
 - 📫 How to reach me **peterelinares@gmail.com**
 
