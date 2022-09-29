@@ -1,6 +1,8 @@
 <h1 align="center">Welcome! 👋, I'm Pedro Linares</h1>
 <h3 align="center">A passionate backend developer from Miami,FL</h3>
 
+
+
 - 🌱 I’m looking to learn **Python**
 
 - 💬 Ask me about **My favorite Mountain Bike trails**
