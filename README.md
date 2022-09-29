@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **peterelinares@gmail.com**
 
-- ⚡ Fun fact **I built custom Arcade Machines as a hobby**
+- ⚡ Fun fact :battery: **I built custom Arcade Machines as a hobby** :battery::wrench::electric_plug:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
