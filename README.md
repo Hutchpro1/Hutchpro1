@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact :battery: **I built custom Arcade Machines as a hobby** :battery::wrench::electric_plug:
 
-- Technical Skills: **Java | Spring Boot | Postman | AWS DynamoDB | AWS CloudFormation | Debugging IntelliJ IDEA**
+- Technical Skills: **Java | Spring Boot | Postman | AWS Amazon Web Services | AWS DynamoDB | Debugging IntelliJ IDEA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
