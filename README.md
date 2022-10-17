@@ -7,7 +7,7 @@
 
 - 🌱 I’m looking to learn **Python**
 
-- 🔭  I’m currently learning  **HTML | CSS | JS | NodeJS**
+- 🔭  I’m currently learning  **HTML | CSS | JS | Node.js**
  
 - 💬 Ask me about :bicyclist: **My favorite Mountain Bike trails**
 
